@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="SusuGroupTracker/SusuGroupTracker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="SusuGroupTracker.Tests/SusuGroupTracker.Tests.csproj" />
+  </Folder>
+</Solution>
